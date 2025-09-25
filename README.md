@@ -8,3 +8,5 @@ https://docs.aws.amazon.com/cli/latest/reference/cloudfront-keyvaluestore/put-ke
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 
 https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html#describe-instances
+
+https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html
